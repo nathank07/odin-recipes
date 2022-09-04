@@ -1,0 +1,29 @@
+h1 {
+    background-color: pink;
+    color:brown;
+}
+
+h2 {
+    background-color: purple;
+    color:blanchedalmond
+}
+
+p{
+    color:aliceblue;
+}
+
+li{
+    color: brown;
+}
+
+.first{
+    background-color: red;
+}
+
+.second{
+    background-color: orange;
+}
+
+.third{
+    background-color: yellow;
+}
